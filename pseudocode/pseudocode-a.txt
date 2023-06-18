@@ -1,0 +1,25 @@
+/**
+ 
+  ***  
+ *   *
+ *   *
+ *****
+ *   *
+
+ */
+
+// FOR i = 0 i is LESS THAN 5, increment by 1
+   // asciiartString = ""
+   // FOR j = 0 is LESS THAN 5, increment by 1
+       // IF 
+       // i = 0 AND j is greater or equal to 1 AND j is greater than or equal to 3
+       // i = 1 AND j is equal to 0 OR j is equal to 4
+       // i = 2 AND j is equal to 0 OR j is equal to 4
+       // i = 3 AND j is greater than or equal to 0 OR less than or equal to 4
+       // i = 4 AND j is equal to 0 OR j is equal to 4
+           // add * to asciiartString   
+       // ELSE
+           // add space to asciiartString
+       // ENDLOOP
+    // print asciiartString
+// ENDLOOP   
