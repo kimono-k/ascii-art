@@ -3,6 +3,7 @@ Done
 
 # Snelhechter voor range/casus "A"
 == Dialoog ==
+<br>
 Bokser: Is alle opties en mogelijkheden zo te benutten, op crafty wijze, dat je code zo min mogelijk ruimte in beslag neemt.
 <br>
 Bokser: Systemen testen, snelhechter, APP. --> Verbeteren
