@@ -2,7 +2,7 @@
 Done
 
 # Snelhechter voor range/casus "A"
-== Dialoog ==
+<h2Dialoog</h2>
 <br>
 Bokser: Is alle opties en mogelijkheden zo te benutten, op crafty wijze, dat je code zo min mogelijk ruimte in beslag neemt.
 <br>
